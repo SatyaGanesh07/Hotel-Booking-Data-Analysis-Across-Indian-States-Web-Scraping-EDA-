@@ -657,8 +657,10 @@ Original Price, Current Price, Taxes, and Total Price
 - **Rating Score and Review Count showed weak correlation with pricing-related features.**
 
 
-## Connect with Me 🤝
-Find out more about my journey and connect with me on [LinkedIn](https://www.linkedin.com/in/ankithkumar08-data-analyst).
+
+## Contact
+For any questions or suggestions, please open an issue or contact me via LinkedIn:  
+[Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)
 
 ---
 
